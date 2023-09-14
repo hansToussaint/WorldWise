@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Parada de Sil",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2023-09-14T03:33:57.085Z",
+      "notes": "Great\n",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "42.334184385939416",
+        "lng": "-7.558593750000001"
       },
-      "id": 17806751
+      "id": 98443198
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "San Pelayo de Guarena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-14T03:55:31.073Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "41.09591205639546",
+        "lng": "-5.899658203125001"
       },
-      "id": 98443197
+      "id": 98443201
+    },
+    {
+      "cityName": "Iscar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-14T06:23:05.668Z",
+      "notes": "",
+      "position": {
+        "lat": "41.328083122811066",
+        "lng": "-4.493408203125001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Balashikha",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-09-14T06:23:15.230Z",
+      "notes": "jknjjn/",
+      "position": {
+        "lat": "55.746316708049235",
+        "lng": "37.92480468750001"
+      },
+      "id": 98443204
     }
   ]
 }
